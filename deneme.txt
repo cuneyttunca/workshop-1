@@ -1,13 +1,7 @@
 a
 b
-c
-ç
-d
-e
-f
-g
-ğ
-h
+a
+a
 ı
 i
 j
